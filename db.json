@@ -4,31 +4,36 @@
       "id": 101,
       "name": "Portfolio Website",
       "categoryIds": [1],
-      "status": "completed"
+      "status": "completed",
+      "imageUrl": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f"
     },
     {
       "id": 102,
       "name": "Machine Learning Model",
       "categoryIds": [2],
-      "status": "in-progress"
+      "status": "in-progress",
+      "imageUrl": "https://images.unsplash.com/photo-1536528087222-5487e8408f7b"
     },
     {
       "id": 103,
       "name": "React Native App",
       "categoryIds": [3],
-      "status": "completed"
+      "status": "completed",
+      "imageUrl": "https://images.unsplash.com/photo-1532183253707-1edc538abf19"
     },
     {
       "id": 104,
       "name": "CI/CD Pipeline Setup",
       "categoryIds": [4],
-      "status": "not-started"
+      "status": "not-started",
+      "imageUrl": "https://images.unsplash.com/photo-1558959357-685f9c7ace7b"
     },
     {
       "id": 105,
       "name": "Data Visualization Dashboard",
       "categoryIds": [2],
-      "status": "completed"
+      "status": "completed",
+      "imageUrl": "https://images.unsplash.com/photo-1531497865144-0464d6dc8f38"
     }
   ],
   "categories": [
@@ -49,5 +54,4 @@
       "name": "DevOps"
     }
   ]
-
 }
